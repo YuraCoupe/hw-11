@@ -42,6 +42,6 @@ out/
 ##############################
 ## Others
 ##############################
-/src/main/java/ua/goit/javacore4/HW11/Car.class
+src/main/java/ua/goit/javacore4/HW11/Car.class
 /src/main/java/ua/goit/javacore4/HW11/ClassWork1.class
 /src/main/java/ua/goit/javacore4/HW11/Race.class
